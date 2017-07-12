@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1497762993 source:c:\users\david\desktop\uva-10684\main.cpp
+	<cstdlib>
+	<iostream>
+	<vector>
+

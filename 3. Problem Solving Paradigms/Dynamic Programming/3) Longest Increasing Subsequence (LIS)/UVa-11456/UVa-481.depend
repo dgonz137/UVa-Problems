@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1498345356 source:c:\users\david\documents\codeblocksprojects\uva-481\main.cpp
+	<iostream>
+	<cstdio>
+	<vector>
+	<cstring>
+	<fstream>
+
+1498345599 source:c:\users\david\documents\codeblocksprojects\uva-11456\main.cpp
+	<iostream>
+	<cstdio>
+	<vector>
+	<cstring>
+	<fstream>
+
