@@ -16,20 +16,21 @@ ll gcd(ll a,ll b){return b == 0 ? a : gcd(b,a%b);}
 ll lcm(ll a,ll b){return a*(b/gcd(a,b));}
 
 int main(){
-        FASTER;
+        /*
+	FASTER;
         cout << "end" << endl;
         int x;
         vi v;
         while(cin >> x){
             vi.push_back(x);
         }
-
+        
          for(vi::iterator itr = v.begin(); itr != v.end; itr++){
             cout << *itr << " ";
         }
         cout << endl;
          */
-
+        
 
 	return 0;
 }
